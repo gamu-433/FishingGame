@@ -15,6 +15,7 @@ tag @a[tag=1_1] add fishi12
 tag @a[tag=1_1] add fishi13
 tag @a[tag=1_1] add fishi14
 tag @a[tag=1_1] add fishi15
+team join fish @a[tag=1_1]
 advancement grant @a[tag=1_1] only fishing:500
 scoreboard players reset @a[tag=1_1] fishpoint2
 scoreboard players set @a[tag=1_1] fishpoint2 0
