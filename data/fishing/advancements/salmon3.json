@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:pufferfish"
+            ],
+            "nbt": "{Tags:[\"salmon1\"]}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "fishing:salmon4"
+  }
+}

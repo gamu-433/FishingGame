@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cod"
+            ],
+            "nbt": "{Tags:[\"salmon6\"]}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "fishing:salmon3"
+  }
+}
