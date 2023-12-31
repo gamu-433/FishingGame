@@ -25,7 +25,7 @@ datapckを導入後、まずは<code>/function fishing:set</code>を実行して
 ## スコアについて
 釣りゲームを始めることで自動的にスコアが表示されますが、スコアボード<code>fishpoint2</code>を表示させることでも
 得点を表示させることが可能です。  
-すべての得点をリセットしたい場合は<code>function fishing:sc-reset</code>を実行することでリセットできます。
+すべての得点をリセットしたい場合は<code>/function fishing:sc-reset</code>を実行することでリセットできます。
 
 # その他
 datapackのバグやリクエスト等があれば<code>gamutyan433@gmail.com</code>までご連絡ください。

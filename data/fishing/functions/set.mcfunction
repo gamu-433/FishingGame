@@ -6,3 +6,4 @@ team add fish
 team modify fish color dark_aqua
 team modify fish friendlyFire false
 scoreboard objectives setdisplay sidebar.team.dark_aqua fishpoint2
+gamerule commandBlockOutput false
